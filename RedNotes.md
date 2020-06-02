@@ -6,3 +6,10 @@
 * https://github.com/jthuraisamy/SysWhispers
 * https://jhalon.github.io/utilizing-syscalls-in-csharp-1/
 * https://jhalon.github.io/utilizing-syscalls-in-csharp-2/
+
+## DLLs
+* https://itm4n.github.io/windows-dll-hijacking-clarified/
+
+## Injections
+* https://sevrosecurity.com/2020/04/08/process-injection-part-1-createremotethread/
+* https://sevrosecurity.com/2020/04/13/process-injection-part-2-queueuserapc/
