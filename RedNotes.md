@@ -13,3 +13,6 @@
 ## Injections
 * https://sevrosecurity.com/2020/04/08/process-injection-part-1-createremotethread/
 * https://sevrosecurity.com/2020/04/13/process-injection-part-2-queueuserapc/
+
+## Situational Awareness
+* https://ired.team/offensive-security/enumeration-and-discovery/windows-event-ids-for-situational-awareness
