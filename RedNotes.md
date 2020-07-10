@@ -6,6 +6,7 @@
 * https://github.com/jthuraisamy/SysWhispers
 * https://jhalon.github.io/utilizing-syscalls-in-csharp-1/
 * https://jhalon.github.io/utilizing-syscalls-in-csharp-2/
+* https://www.solomonsklash.io/syscalls-for-shellcode-injection.html
 
 ## DLLs
 * https://itm4n.github.io/windows-dll-hijacking-clarified/
