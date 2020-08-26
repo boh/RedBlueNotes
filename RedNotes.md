@@ -10,6 +10,7 @@
 
 ## DLLs
 * https://itm4n.github.io/windows-dll-hijacking-clarified/
+* https://github.com/monoxgas/Koppeling (DLL hijacking)
 
 ## Injections
 * https://sevrosecurity.com/2020/04/08/process-injection-part-1-createremotethread/
