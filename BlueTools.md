@@ -28,3 +28,5 @@
 * ToolAnalysisResultSheet
 * win10-secure-baseline-gpo
 * WindowsEnum
+* Zeek
+  * [Zeek-Intelligence-Feeds](https://github.com/CriticalPathSecurity/Zeek-Intelligence-Feeds)
