@@ -17,3 +17,14 @@
 
 ## Situational Awareness
 * https://ired.team/offensive-security/enumeration-and-discovery/windows-event-ids-for-situational-awareness
+
+## SSH 
+* If you are always looking through your ssh conf files for a specific host entry, this simple bash function might be just what you need. 
+
+```
+function getssh() {
+  awk "/$1/,/^$/" < ~/.ssh/include/*
+}
+```
+
+![SSH configs](https://pbs.twimg.com/media/EgW_CXzXsAEsh0r?format=png&name=small)
