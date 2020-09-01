@@ -19,6 +19,9 @@
 ## Situational Awareness
 * https://ired.team/offensive-security/enumeration-and-discovery/windows-event-ids-for-situational-awareness
 
+## Phishing
+[Post exploitation creds](https://medium.com/@shantanukhande/post-exploitation-creds-5a8de8676792)
+
 ## SSH 
 * If you are always looking through your ssh conf files for a specific host entry, this simple bash function might be just what you need. 
 
