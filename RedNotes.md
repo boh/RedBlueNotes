@@ -20,7 +20,7 @@
 * https://ired.team/offensive-security/enumeration-and-discovery/windows-event-ids-for-situational-awareness
 
 ## Phishing
-[Post exploitation creds](https://medium.com/@shantanukhande/post-exploitation-creds-5a8de8676792)
+* [Post exploitation creds](https://medium.com/@shantanukhande/post-exploitation-creds-5a8de8676792)
 
 ## Download and execute
 
@@ -29,8 +29,8 @@
 * (You can use C:\ProgramData\Microsoft\Windows Defender\platform\4.18.2008.9-0\MpCmdRun.exe -url <url> -path <local-path> to download your file using Windows defender itself.)
   
 ## Reports and management
-[Manage Red Team domain](https://posts.specterops.io/being-a-good-domain-shepherd-part-2-5e8597c3fe63)
-[Domain Shepherd](https://github.com/GhostManager/Shepherd)
+* [Manage Red Team domain](https://posts.specterops.io/being-a-good-domain-shepherd-part-2-5e8597c3fe63)
+* [Domain Shepherd](https://github.com/GhostManager/Shepherd)
 
 ## SSH 
 * If you are always looking through your ssh conf files for a specific host entry, this simple bash function might be just what you need. 
