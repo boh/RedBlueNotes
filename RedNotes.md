@@ -27,6 +27,10 @@
 * [Download via Defender](https://twitter.com/mohammadaskar2/status/1301263551638761477)
 ![Defender download](https://pbs.twimg.com/media/Eg8ESSWWAAACTGo?format=jpg&name=large)
 * (You can use C:\ProgramData\Microsoft\Windows Defender\platform\4.18.2008.9-0\MpCmdRun.exe -url <url> -path <local-path> to download your file using Windows defender itself.)
+  
+## Reports and management
+[Manage Red Team domain](https://posts.specterops.io/being-a-good-domain-shepherd-part-2-5e8597c3fe63)
+[Domain Shepherd](https://github.com/GhostManager/Shepherd)
 
 ## SSH 
 * If you are always looking through your ssh conf files for a specific host entry, this simple bash function might be just what you need. 
