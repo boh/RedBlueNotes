@@ -25,6 +25,7 @@
 ## Phishing
 * [Post exploitation creds](https://medium.com/@shantanukhande/post-exploitation-creds-5a8de8676792)
 * [Check the phishing server / landing page response](https://httpstatus.io/)
+* [Security check of your URL ](https://sitecheck.sucuri.net/)
 * [Check your phishing e-mail quality](https://www.mail-tester.com/)
 * [Recipe for a successful phishing campaign (part 1/2)](https://medium.com/bugbountywriteup/recipe-for-a-successful-phishing-campaign-part-1-2-dc23d927ec55)
   * setup SPF, DKIM, PTR, MX and general approach
