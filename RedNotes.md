@@ -31,6 +31,7 @@
   * setup SPF, DKIM, PTR, MX and general approach
 * [Recipe for a successful phishing campaign (part 2/2)](https://medium.com/bugbountywriteup/recipe-for-a-successful-phishing-campaign-part-2-2-68552806dcba)
   * setup DNS, gophishg, general tips for better campaign
+* [Building resilient phishing campaign infrastructure](https://godlikesecurity.com/index.php/tag/red-team/)
 
 ## Download and execute
 
