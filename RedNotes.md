@@ -33,6 +33,13 @@
   * setup DNS, gophishg, general tips for better campaign
 * [Building resilient phishing campaign infrastructure](https://godlikesecurity.com/index.php/tag/red-team/)
 
+### Phishing platforms
+* [sendgrid](http://sendgrid.com/)
+  * useful service but honestly, You need Pro pain plan to be lucky not to be on a spamlist 
+* [mailgun](https://app.mailgun.com/)
+  * haven't had any problem
+* [Amazon AWS SES](https://aws.amazon.com/ses/)
+
 ## Download and execute
 
 * [Download via Defender](https://twitter.com/mohammadaskar2/status/1301263551638761477)
