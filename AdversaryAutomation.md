@@ -20,3 +20,6 @@
 # Infrastructure & Labs
 * [Want to test out Microsoft #Security products (and others) but don't have the environment to thoroughly test? Want to simulate Active Directory, privileged users, to learn more about credential exposure? Check it out this Defend the Flag environment](https://twitter.com/yuridiogenes/status/1298362801216458762)
 * [DefendTheFlag](https://github.com/microsoft/DefendTheFlag/)
+
+# Atomic RedTeam
+* Blue teams can now test their #ActiveDirectory attack detection mechanisms (SIEM, FW...) using #AtomicRedTeam by @redcanary [LINK](https://twitter.com/cnotin/status/1347176446842822656)
