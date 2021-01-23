@@ -11,6 +11,9 @@
 * https://jhalon.github.io/utilizing-syscalls-in-csharp-2/
 * https://www.solomonsklash.io/syscalls-for-shellcode-injection.html
 
+## API unhook
+[https://shells.systems/defeat-bitdefender-total-security-using-windows-api-unhooking-to-perform-process-injection/](https://shells.systems/defeat-bitdefender-total-security-using-windows-api-unhooking-to-perform-process-injection/)
+
 ## DLLs
 * https://itm4n.github.io/windows-dll-hijacking-clarified/
 * https://github.com/monoxgas/Koppeling (DLL hijacking)
