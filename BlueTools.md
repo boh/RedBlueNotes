@@ -1,5 +1,12 @@
 # Collection of random tools
 
+## Cloud
+
+* [hawk](https://github.com/T0pCyber/hawk)
+  * O365
+
+## Tools
+
 * Active Directory PingCastle Auditor
 * B2Response
 * CentOS7_Lockdown
