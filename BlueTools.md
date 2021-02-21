@@ -3,7 +3,7 @@
 ## Cloud
 
 * [hawk](https://github.com/T0pCyber/hawk)
-  * O365
+  * Powershell Based tool for gathering information related to O365 intrusions and potential Breaches
 
 ## Tools
 
