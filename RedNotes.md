@@ -35,6 +35,7 @@
 * [Recipe for a successful phishing campaign (part 2/2)](https://medium.com/bugbountywriteup/recipe-for-a-successful-phishing-campaign-part-2-2-68552806dcba)
   * setup DNS, gophishg, general tips for better campaign
 * [Building resilient phishing campaign infrastructure](https://godlikesecurity.com/index.php/tag/red-team/)
+* [email spoofing](https://github.com/chenjj/espoofer)
 
 ### Phishing platforms
 * [sendgrid](http://sendgrid.com/)
