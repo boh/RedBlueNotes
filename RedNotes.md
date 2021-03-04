@@ -14,6 +14,9 @@
 ## API unhook
 [https://shells.systems/defeat-bitdefender-total-security-using-windows-api-unhooking-to-perform-process-injection/](https://shells.systems/defeat-bitdefender-total-security-using-windows-api-unhooking-to-perform-process-injection/)
 
+## EDR telemetry
+[TelemetrySourcerer](https://github.com/jthuraisamy/TelemetrySourcerer)
+
 ## DLLs
 * https://itm4n.github.io/windows-dll-hijacking-clarified/
 * https://github.com/monoxgas/Koppeling (DLL hijacking)
