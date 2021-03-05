@@ -20,6 +20,9 @@
 # Build offensive tools 
 * [OffensivePipeline](https://github.com/Aetsu/OffensivePipeline)
 
+# Evasion
+* [Alaris](https://github.com/cribdragg3r/Alaris)
+
 ## DLLs
 * https://itm4n.github.io/windows-dll-hijacking-clarified/
 * https://github.com/monoxgas/Koppeling (DLL hijacking)
