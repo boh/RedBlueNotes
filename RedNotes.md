@@ -12,10 +12,13 @@
 * https://www.solomonsklash.io/syscalls-for-shellcode-injection.html
 
 ## API unhook
-[https://shells.systems/defeat-bitdefender-total-security-using-windows-api-unhooking-to-perform-process-injection/](https://shells.systems/defeat-bitdefender-total-security-using-windows-api-unhooking-to-perform-process-injection/)
+* [https://shells.systems/defeat-bitdefender-total-security-using-windows-api-unhooking-to-perform-process-injection/](https://shells.systems/defeat-bitdefender-total-security-using-windows-api-unhooking-to-perform-process-injection/)
 
 ## EDR telemetry
-[TelemetrySourcerer](https://github.com/jthuraisamy/TelemetrySourcerer)
+* [TelemetrySourcerer](https://github.com/jthuraisamy/TelemetrySourcerer)
+
+# Build offensive tools 
+* [OffensivePipeline](https://github.com/Aetsu/OffensivePipeline)
 
 ## DLLs
 * https://itm4n.github.io/windows-dll-hijacking-clarified/
