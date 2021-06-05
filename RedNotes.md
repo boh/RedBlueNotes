@@ -22,6 +22,7 @@
 
 # Evasion
 * [Alaris](https://github.com/cribdragg3r/Alaris)
+* [ScareCrow](https://github.com/optiv/ScareCrow)
 
 ## DLLs
 * https://itm4n.github.io/windows-dll-hijacking-clarified/
