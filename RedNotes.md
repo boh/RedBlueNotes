@@ -10,6 +10,7 @@
 * https://jhalon.github.io/utilizing-syscalls-in-csharp-1/
 * https://jhalon.github.io/utilizing-syscalls-in-csharp-2/
 * https://www.solomonsklash.io/syscalls-for-shellcode-injection.html
+* https://github.com/frkngksl/Celeborn
 
 ## API unhook
 * [https://shells.systems/defeat-bitdefender-total-security-using-windows-api-unhooking-to-perform-process-injection/](https://shells.systems/defeat-bitdefender-total-security-using-windows-api-unhooking-to-perform-process-injection/)
