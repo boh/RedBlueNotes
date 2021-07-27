@@ -34,6 +34,7 @@ Collection in early stage - more details will be added (URL/Description).
 * [OffensivePipeline](https://github.com/Aetsu/OffensivePipeline)
 
 ## Evasion
+* [Blue team - EDR evolution](https://www.optiv.com/insights/source-zero/blog/endpoint-detection-and-response-how-hackers-have-evolved)
 * [Alaris](https://github.com/cribdragg3r/Alaris)
 * [ScareCrow](https://github.com/optiv/ScareCrow)
 * [Self deleting exe](https://www.catch22.net/tuts/win32/self-deleting-executables#)
