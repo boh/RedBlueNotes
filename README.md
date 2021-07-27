@@ -114,4 +114,5 @@ function getssh() {
 * [Weaponry](https://github.com/jeffjbowie/Weaponry)
   * A collection of offensive code used for red team engagements.                                    
 * [Mr-Un1k0d3r awesome repo](https://github.com/Mr-Un1k0d3r)  
-* [PowerShellArmoury](https://github.com/cfalta/PowerShellArmoury)                                    
+* [PowerShellArmoury](https://github.com/cfalta/PowerShellArmoury) 
+* [RedTeamTools](https://github.com/lengjibo/RedTeamTools)                                    
