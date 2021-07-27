@@ -76,6 +76,7 @@ Collection in early stage - more details will be added (URL/Description).
 * [Building resilient phishing campaign infrastructure](https://godlikesecurity.com/index.php/tag/red-team/)
 * [email spoofing](https://github.com/chenjj/espoofer)
 * [docker,terradorm,ansible automation](https://github.com/ralphte/build_a_phish)
+* [Internal phishing](https://github.com/Yaxser/SharpPhish)
 
 ### Phishing platforms
 * [sendgrid](http://sendgrid.com/)
