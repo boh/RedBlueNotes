@@ -15,6 +15,7 @@ Collection in early stage - more details will be added (URL/Description).
 ## .NET ETW 
 * https://www.mdsec.co.uk/2020/03/hiding-your-net-etw/ (bypass by _xpn_)
 * https://github.com/zacbrown/PowerKrabsEtw
+* https://github.com/zacbrown/hiddentreasure-etw-demo
 
 ## Windows syscalls
 * https://outflank.nl/blog/2019/06/19/red-team-tactics-combining-direct-system-calls-and-srdi-to-bypass-av-edr/
