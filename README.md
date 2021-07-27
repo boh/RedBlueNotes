@@ -42,6 +42,9 @@ Collection in early stage - more details will be added (URL/Description).
 ## Cloud
 * [XPN - Azure AD Connect for Red Teamers](https://blog.xpnsec.com/azuread-connect-for-redteam/)
 
+## Lateral movement
+* [lateral-movement-using-dcom-objects](https://www.scorpiones.io/articles/lateral-movement-using-dcom-objects)
+
 # DLLs
 * https://itm4n.github.io/windows-dll-hijacking-clarified/
 * https://github.com/monoxgas/Koppeling (DLL hijacking)
