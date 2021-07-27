@@ -75,6 +75,7 @@ Collection in early stage - more details will be added (URL/Description).
   * setup DNS, gophishg, general tips for better campaign
 * [Building resilient phishing campaign infrastructure](https://godlikesecurity.com/index.php/tag/red-team/)
 * [email spoofing](https://github.com/chenjj/espoofer)
+* [docker,terradorm,ansible automation](https://github.com/ralphte/build_a_phish)
 
 ### Phishing platforms
 * [sendgrid](http://sendgrid.com/)
