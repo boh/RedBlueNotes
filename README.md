@@ -24,7 +24,6 @@ Collection in early stage - more details will be added (URL/Description).
 * https://github.com/frkngksl/Celeborn
 
 ## (API) (un)hook
-* [https://shells.systems/defeat-bitdefender-total-security-using-windows-api-unhooking-to-perform-process-injection/](https://shells.systems/defeat-bitdefender-total-security-using-windows-api-unhooking-to-perform-process-injection/)
 * [Defeat Bitdefender total security using windows API unhooking to perform process injection](https://shells.systems/defeat-bitdefender-total-security-using-windows-api-unhooking-to-perform-process-injection/)
 * [Part 1: Fs Minifilter Hooking](https://aviadshamriz.medium.com/part-1-fs-minifilter-hooking-7e743b042a9d)
 
@@ -103,3 +102,7 @@ function getssh() {
 
 ![SSH configs](https://pbs.twimg.com/media/EgW_CXzXsAEsh0r?format=png&name=small)
 
+## tools
+* [Weaponry](https://github.com/jeffjbowie/Weaponry)
+  * A collection of offensive code used for red team engagements.                                    
+                                  
