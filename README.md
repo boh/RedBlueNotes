@@ -22,6 +22,7 @@ Collection in early stage - more details will be added (URL/Description).
 * https://jhalon.github.io/utilizing-syscalls-in-csharp-2/
 * https://www.solomonsklash.io/syscalls-for-shellcode-injection.html
 * https://github.com/frkngksl/Celeborn
+* https://github.com/m0rv4i/Syscalls-Extractor
 
 ## (API) (un)hook
 * [Defeat Bitdefender total security using windows API unhooking to perform process injection](https://shells.systems/defeat-bitdefender-total-security-using-windows-api-unhooking-to-perform-process-injection/)
