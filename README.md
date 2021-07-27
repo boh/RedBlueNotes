@@ -77,6 +77,7 @@ Collection in early stage - more details will be added (URL/Description).
 * [email spoofing](https://github.com/chenjj/espoofer)
 * [docker,terradorm,ansible automation](https://github.com/ralphte/build_a_phish)
 * [Internal phishing](https://github.com/Yaxser/SharpPhish)
+* [Password protected Excel phishing](https://s3cur3th1ssh1t.github.io/Phish-password-protected-Excel-files/)
 
 ### Phishing platforms
 * [sendgrid](http://sendgrid.com/)
