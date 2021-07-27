@@ -24,6 +24,7 @@
 # Evasion
 * [Alaris](https://github.com/cribdragg3r/Alaris)
 * [ScareCrow](https://github.com/optiv/ScareCrow)
+* [Self deleting exe](https://www.catch22.net/tuts/win32/self-deleting-executables#)
 
 ## DLLs
 * https://itm4n.github.io/windows-dll-hijacking-clarified/
