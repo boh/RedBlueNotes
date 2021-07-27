@@ -1,5 +1,7 @@
 ## Offensive C# tools
 
+There's also a separate public repository at [https://github.com/boh/RedCsharp](https://github.com/boh/RedCsharp) 
+
 * [CasperStager](https://github.com/ustayready/CasperStager)
   * PoC for persisting .NET payloads in Windows Notification Facility (WNF) state names using low-level Windows Kernel API calls.
 * [CSExec](https://github.com/malcomvetter/CSExec)
