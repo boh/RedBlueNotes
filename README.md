@@ -25,6 +25,7 @@ Collection in early stage - more details will be added (URL/Description).
 
 ## (API) (un)hook
 * [https://shells.systems/defeat-bitdefender-total-security-using-windows-api-unhooking-to-perform-process-injection/](https://shells.systems/defeat-bitdefender-total-security-using-windows-api-unhooking-to-perform-process-injection/)
+* [Defeat Bitdefender total security using windows API unhooking to perform process injection](https://shells.systems/defeat-bitdefender-total-security-using-windows-api-unhooking-to-perform-process-injection/)
 * [Part 1: Fs Minifilter Hooking](https://aviadshamriz.medium.com/part-1-fs-minifilter-hooking-7e743b042a9d)
 
 ## EDR telemetry
