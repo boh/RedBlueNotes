@@ -42,6 +42,7 @@ Collection in early stage - more details will be added (URL/Description).
 * [Adventures in Dynamic Evasion](https://posts.specterops.io/adventures-in-dynamic-evasion-1fe0bac57aa)
   * [Companion PoC for the "Adventures in Dynamic Evasion" blog post](https://github.com/matterpreter/SHAPESHIFTER) 
 * [Click your shortcut and… you got pwned.](https://redteamer.tips/click-your-shortcut-and-you-got-pwned/) 
+* [Evade EDR with Shellcode Injection and gain persistence using Registry Run Keys](https://infosecwriteups.com/evade-avs-edr-with-shellcode-injection-159dde4dba1a)
 
 ## Cloud
 * [XPN - Azure AD Connect for Red Teamers](https://blog.xpnsec.com/azuread-connect-for-redteam/)
