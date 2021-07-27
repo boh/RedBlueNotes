@@ -18,15 +18,23 @@
 ## EDR telemetry
 * [TelemetrySourcerer](https://github.com/jthuraisamy/TelemetrySourcerer)
 
-# Build offensive tools 
+## Build offensive tools 
 * [OffensivePipeline](https://github.com/Aetsu/OffensivePipeline)
 
-# Evasion
+## Evasion
 * [Alaris](https://github.com/cribdragg3r/Alaris)
 * [ScareCrow](https://github.com/optiv/ScareCrow)
 * [Self deleting exe](https://www.catch22.net/tuts/win32/self-deleting-executables#)
+* [Defeating Antivirus Real-time Protection From The Inside](https://breakdev.org/defeating-antivirus-real-time-protection-from-the-inside/)
+* [Duping AV with handles](https://skelsec.medium.com/duping-av-with-handles-537ef985eb03)
+* [Adventures in Dynamic Evasion](https://posts.specterops.io/adventures-in-dynamic-evasion-1fe0bac57aa)
+  * [Companion PoC for the "Adventures in Dynamic Evasion" blog post](https://github.com/matterpreter/SHAPESHIFTER) 
+* [Click your shortcut and… you got pwned.](https://redteamer.tips/click-your-shortcut-and-you-got-pwned/) 
 
-## DLLs
+## Cloud
+* [XPN - Azure AD Connect for Red Teamers](https://blog.xpnsec.com/azuread-connect-for-redteam/)
+
+# DLLs
 * https://itm4n.github.io/windows-dll-hijacking-clarified/
 * https://github.com/monoxgas/Koppeling (DLL hijacking)
 
