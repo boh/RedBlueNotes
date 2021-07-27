@@ -9,6 +9,9 @@ Collection in early stage - more details will be added (URL/Description).
 ## Approach
 * [assume breach?](https://twitter.com/reybango/status/1308608385298898944)
 
+## Lab
+* [designing-the-adversary-simulation-lab/](https://www.mdsec.co.uk/2020/04/designing-the-adversary-simulation-lab/)
+
 ## .NET ETW bypass by _xpn_
 * https://www.mdsec.co.uk/2020/03/hiding-your-net-etw/
 
@@ -20,8 +23,9 @@ Collection in early stage - more details will be added (URL/Description).
 * https://www.solomonsklash.io/syscalls-for-shellcode-injection.html
 * https://github.com/frkngksl/Celeborn
 
-## API unhook
+## (API) (un)hook
 * [https://shells.systems/defeat-bitdefender-total-security-using-windows-api-unhooking-to-perform-process-injection/](https://shells.systems/defeat-bitdefender-total-security-using-windows-api-unhooking-to-perform-process-injection/)
+* [Part 1: Fs Minifilter Hooking](https://aviadshamriz.medium.com/part-1-fs-minifilter-hooking-7e743b042a9d)
 
 ## EDR telemetry
 * [TelemetrySourcerer](https://github.com/jthuraisamy/TelemetrySourcerer)
@@ -41,6 +45,8 @@ Collection in early stage - more details will be added (URL/Description).
 
 ## Cloud
 * [XPN - Azure AD Connect for Red Teamers](https://blog.xpnsec.com/azuread-connect-for-redteam/)
+* [Making Clouds Rain :: Remote Code Execution in Microsoft Office 365](https://srcincite.io/blog/2021/01/12/making-clouds-rain-rce-in-office-365.html)
+* [List of Azure CDN IP Addresses](https://github.com/Gelob/azure-cdn-ips)
 
 ## Lateral movement
 * [lateral-movement-using-dcom-objects](https://www.scorpiones.io/articles/lateral-movement-using-dcom-objects)
