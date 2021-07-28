@@ -49,6 +49,7 @@ Collection in early stage - more details will be added (URL/Description).
 * [Evade EDR with Shellcode Injection and gain persistence using Registry Run Keys](https://infosecwriteups.com/evade-avs-edr-with-shellcode-injection-159dde4dba1a)
 * [Understanding and bypassing AMSI](https://x64sec.sh/understanding-and-bypassing-amsi/)
 * [Masking Malicious Memory Artifacts – Part III: Bypassing Defensive Scanners](https://www.forrest-orr.net/post/masking-malicious-memory-artifacts-part-iii-bypassing-defensive-scanners)
+* [smaller-c-payloads-on-windows](https://www.solomonsklash.io/smaller-c-payloads-on-windows.html)
 
 ## Cloud
 * [XPN - Azure AD Connect for Red Teamers](https://blog.xpnsec.com/azuread-connect-for-redteam/)
