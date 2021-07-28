@@ -47,6 +47,8 @@ Collection in early stage - more details will be added (URL/Description).
   * [Companion PoC for the "Adventures in Dynamic Evasion" blog post](https://github.com/matterpreter/SHAPESHIFTER) 
 * [Click your shortcut and… you got pwned.](https://redteamer.tips/click-your-shortcut-and-you-got-pwned/) 
 * [Evade EDR with Shellcode Injection and gain persistence using Registry Run Keys](https://infosecwriteups.com/evade-avs-edr-with-shellcode-injection-159dde4dba1a)
+* [Understanding and bypassing AMSI](https://x64sec.sh/understanding-and-bypassing-amsi/)
+* [Masking Malicious Memory Artifacts – Part III: Bypassing Defensive Scanners](https://www.forrest-orr.net/post/masking-malicious-memory-artifacts-part-iii-bypassing-defensive-scanners)
 
 ## Cloud
 * [XPN - Azure AD Connect for Red Teamers](https://blog.xpnsec.com/azuread-connect-for-redteam/)
@@ -59,6 +61,7 @@ Collection in early stage - more details will be added (URL/Description).
 # DLLs
 * https://itm4n.github.io/windows-dll-hijacking-clarified/
 * https://github.com/monoxgas/Koppeling (DLL hijacking)
+* https://redteaming.co.uk/2020/07/12/dll-proxy-loading-your-favorite-c-implant/ (DLL proxy loading)
 
 ## Injections
 * https://sevrosecurity.com/2020/04/08/process-injection-part-1-createremotethread/
