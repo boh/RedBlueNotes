@@ -55,6 +55,9 @@ Collection in early stage - more details will be added (URL/Description).
 * [XPN - Azure AD Connect for Red Teamers](https://blog.xpnsec.com/azuread-connect-for-redteam/)
 * [Making Clouds Rain :: Remote Code Execution in Microsoft Office 365](https://srcincite.io/blog/2021/01/12/making-clouds-rain-rce-in-office-365.html)
 * [List of Azure CDN IP Addresses](https://github.com/Gelob/azure-cdn-ips)
+* [AWS IAM explained for Red and Blue teams](https://infosecwriteups.com/aws-iam-explained-for-red-and-blue-teams-2dda8b20fbf7)
+* [Exploiting AWS IAM permissions for total cloud compromise: a real world example (part 1/2)](https://infosecwriteups.com/exploiting-fine-grained-aws-iam-permissions-for-total-cloud-compromise-a-real-world-example-part-5a2f3de4be08)
+* [Exploiting fine-grained AWS IAM permissions for total cloud compromise: a real world example (part 2/2)](https://infosecwriteups.com/exploiting-aws-iam-permissions-for-total-cloud-compromise-a-real-world-example-part-2-2-f27e4b57454e)
 
 ## Lateral movement
 * [lateral-movement-using-dcom-objects](https://www.scorpiones.io/articles/lateral-movement-using-dcom-objects)
