@@ -39,6 +39,7 @@ Collection in early stage - more details will be added (URL/Description).
 
 ## Evasion
 * [Blue team - EDR evolution](https://www.optiv.com/insights/source-zero/blog/endpoint-detection-and-response-how-hackers-have-evolved)
+* [Nice webinar - understanding-modern-edr-tools](https://www.netspi.com/webinars/understanding-modern-edr-tools-thank-you/)
 * [Lets Create An EDR… And Bypass It! Part 1](https://ethicalchaos.dev/2020/05/27/lets-create-an-edr-and-bypass-it-part-1/)
 * [Lets Create An EDR… And Bypass It! Part 2](https://ethicalchaos.dev/2020/06/14/lets-create-an-edr-and-bypass-it-part-2/)
 * [Alaris](https://github.com/cribdragg3r/Alaris)
