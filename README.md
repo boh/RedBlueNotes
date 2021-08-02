@@ -127,9 +127,13 @@ function getssh() {
 
 ![SSH configs](https://pbs.twimg.com/media/EgW_CXzXsAEsh0r?format=png&name=small)
 
-## tools
+## Tools
 * [Weaponry](https://github.com/jeffjbowie/Weaponry)
   * A collection of offensive code used for red team engagements.                                    
 * [Mr-Un1k0d3r awesome repo](https://github.com/Mr-Un1k0d3r)  
 * [PowerShellArmoury](https://github.com/cfalta/PowerShellArmoury) 
 * [RedTeamTools](https://github.com/lengjibo/RedTeamTools)                                    
+
+## HW
+* [Making the Perfect Red Team Dropbox (Part 1)](https://sensepost.com/blog/2020/making-the-perfect-red-team-dropbox-part-1/)
+* [Making the Perfect Red Team Dropbox (Part 2)](https://sensepost.com/blog/2020/making-the-perfect-red-team-dropbox-part-2/)
