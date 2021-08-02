@@ -39,6 +39,8 @@ Collection in early stage - more details will be added (URL/Description).
 
 ## Evasion
 * [Blue team - EDR evolution](https://www.optiv.com/insights/source-zero/blog/endpoint-detection-and-response-how-hackers-have-evolved)
+* [Lets Create An EDR… And Bypass It! Part 1](https://ethicalchaos.dev/2020/05/27/lets-create-an-edr-and-bypass-it-part-1/)
+* [Lets Create An EDR… And Bypass It! Part 2](https://ethicalchaos.dev/2020/06/14/lets-create-an-edr-and-bypass-it-part-2/)
 * [Alaris](https://github.com/cribdragg3r/Alaris)
 * [ScareCrow](https://github.com/optiv/ScareCrow)
 * [Self deleting exe](https://www.catch22.net/tuts/win32/self-deleting-executables#)
