@@ -71,6 +71,7 @@ Collection in early stage - more details will be added (URL/Description).
 * https://itm4n.github.io/windows-dll-hijacking-clarified/
 * https://github.com/monoxgas/Koppeling (DLL hijacking)
 * https://redteaming.co.uk/2020/07/12/dll-proxy-loading-your-favorite-c-implant/ (DLL proxy loading)
+* [Full DLL Unhooking with C++](https://www.ired.team/offensive-security/defense-evasion/how-to-unhook-a-dll-using-c++)
 
 ## Injections
 * https://sevrosecurity.com/2020/04/08/process-injection-part-1-createremotethread/
