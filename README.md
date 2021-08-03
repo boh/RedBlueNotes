@@ -132,7 +132,8 @@ function getssh() {
   * A collection of offensive code used for red team engagements.                                    
 * [Mr-Un1k0d3r awesome repo](https://github.com/Mr-Un1k0d3r)  
 * [PowerShellArmoury](https://github.com/cfalta/PowerShellArmoury) 
-* [RedTeamTools](https://github.com/lengjibo/RedTeamTools)                                    
+* [RedTeamTools](https://github.com/lengjibo/RedTeamTools)     
+* [inceptor](https://github.com/klezVirus/inceptor)                                    
 
 ## HW
 * [Making the Perfect Red Team Dropbox (Part 1)](https://sensepost.com/blog/2020/making-the-perfect-red-team-dropbox-part-1/)
