@@ -37,6 +37,9 @@ Collection in early stage - more details will be added (URL/Description).
 ## Build offensive tools 
 * [OffensivePipeline](https://github.com/Aetsu/OffensivePipeline)
 
+## Infrastrcuture
+* [Multi-Stage Offensive Operations with Mythic](https://blog.kyleavery.com/posts/multi-stage-mythic/)
+
 ## Evasion
 * [Blue team - EDR evolution](https://www.optiv.com/insights/source-zero/blog/endpoint-detection-and-response-how-hackers-have-evolved)
 * [Nice webinar - understanding-modern-edr-tools](https://www.netspi.com/webinars/understanding-modern-edr-tools-thank-you/)
