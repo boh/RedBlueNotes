@@ -89,6 +89,7 @@ Collection in early stage - more details will be added (URL/Description).
 
 ## Phishing
 * [Post exploitation creds](https://medium.com/@shantanukhande/post-exploitation-creds-5a8de8676792)
+* [Adversary phishing characteristics](https://blog.sannemaasakkers.com/adversary-phishing-characteristics.html)
 * [Check the phishing server / landing page response](https://httpstatus.io/)
 * [Security check of your URL ](https://sitecheck.sucuri.net/)
 * [Check your phishing e-mail quality](https://www.mail-tester.com/)
