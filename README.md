@@ -64,6 +64,7 @@ Collection in early stage - more details will be added (URL/Description).
 * [MDSec Bypassing Image Load Kernel Callbacks](https://www.mdsec.co.uk/2021/06/bypassing-image-load-kernel-callbacks/)
 * [EDR bypass via signed driver EDRSandblast](https://github.com/wavestone-cdt/EDRSandblast)
 * [Bypass user-mode hooks](https://github.com/hlldz/RefleXXion)
+* [Cool gitbook full of great tips not only for RedTeaming but pentesting in general](https://ppn.snovvcrash.rocks/)
 
 ## Cloud
 * [XPN - Azure AD Connect for Red Teamers](https://blog.xpnsec.com/azuread-connect-for-redteam/)
