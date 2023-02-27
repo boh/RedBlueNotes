@@ -124,6 +124,7 @@ Collection in early stage - more details will be added (URL/Description).
 ## Reports and management
 * [Manage Red Team domain](https://posts.specterops.io/being-a-good-domain-shepherd-part-2-5e8597c3fe63)
 * [Domain Shepherd](https://github.com/GhostManager/Shepherd)
+* [CISA RedEye CS reporting tool](https://github.com/cisagov/RedEye)
 
 ## SSH 
 * If you are always looking through your ssh conf files for a specific host entry, this simple bash function might be just what you need. 
