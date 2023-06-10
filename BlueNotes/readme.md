@@ -9,3 +9,6 @@
 ### Random
 
 * [Blue-Team-Notes](https://github.com/Purp1eW0lf/Blue-Team-Notes)
+
+### 
+* [driver block list](https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-driver-block-rules)
