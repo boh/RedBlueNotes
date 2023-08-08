@@ -108,6 +108,7 @@ Collection in early stage - more details will be added (URL/Description).
 * [Password protected Excel phishing](https://s3cur3th1ssh1t.github.io/Phish-password-protected-Excel-files/)
 * [Gophish notification](https://github.com/dunderhay/gophish-notifications)
 * [Gophish notification via webhooks](https://github.com/t94j0/gophish-notifier)
+* [HTML landing page obfuscation](https://github.com/BinBashBanana/html-obfuscator)
 
 ### Phishing platforms
 * [sendgrid](http://sendgrid.com/)
