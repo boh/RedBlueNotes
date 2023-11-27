@@ -109,6 +109,7 @@ Collection in early stage - more details will be added (URL/Description).
 * [Gophish notification](https://github.com/dunderhay/gophish-notifications)
 * [Gophish notification via webhooks](https://github.com/t94j0/gophish-notifier)
 * [HTML landing page obfuscation](https://github.com/BinBashBanana/html-obfuscator)
+* [HTML smuggling obfuscated](https://elliotonsecurity.com/creating-fully-undetectable-javscript-payloads-to-evade-next-generation-firewalls/)
 
 ### Phishing platforms
 * [sendgrid](http://sendgrid.com/)
