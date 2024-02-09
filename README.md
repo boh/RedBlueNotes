@@ -149,7 +149,8 @@ function getssh() {
 * [PowerShellArmoury](https://github.com/cfalta/PowerShellArmoury) 
 * [RedTeamTools](https://github.com/lengjibo/RedTeamTools)     
 * [inceptor](https://github.com/klezVirus/inceptor)   
-* [mgeeky awesome repo](https://github.com/mgeeky/Penetration-Testing-Tools/tree/master/red-teaming)                                    
+* [mgeeky awesome repo](https://github.com/mgeeky/Penetration-Testing-Tools/tree/master/red-teaming)
+* [Stealthy ACL recon AD](https://github.com/garrettfoster13/aced)                                  
 
 ## HW
 * [Making the Perfect Red Team Dropbox (Part 1)](https://sensepost.com/blog/2020/making-the-perfect-red-team-dropbox-part-1/)
